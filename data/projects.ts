@@ -12,7 +12,7 @@ export const projects: Project[] = [
     description:
       'A decentralized stablecoin anchored to 1$ and exogenously overcollaterized in nature.',
     logo: '/logos/driwwwle.svg',
-    link: 'https://github.com/Ra9huvansh/RaveCoin',
+    link: 'https://github.com/Ra9huvansh/Merix-Holdings',
     slug: 'ravecoin',
   },
   {
