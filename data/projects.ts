@@ -8,7 +8,7 @@ export interface Project {
 
 export const projects: Project[] = [
   {
-    title: 'RaveCoin',
+    title: 'Merix Holdings',
     description:
       'A decentralized stablecoin anchored to 1$ and exogenously overcollaterized in nature.',
     logo: '/logos/driwwwle.svg',
